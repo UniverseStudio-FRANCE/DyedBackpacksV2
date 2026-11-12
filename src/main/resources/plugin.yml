@@ -1,0 +1,10 @@
+﻿name: DyedBackpacksV2
+version: ${version}
+authors: [TheBusyBiscuit, Phil]
+description: Dyed Backpacks V2 Addon
+website: https://github.com/Slimefun5/
+
+main: net.universestudio.DyedBackpacksV2
+depend: [Slimefun]
+
+api-version: '26.2'
