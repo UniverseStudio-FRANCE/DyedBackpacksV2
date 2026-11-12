@@ -1,0 +1,1161 @@
+# Small Backpacks
+DYED_SMALL_BACKPACK_WHITE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&fWhite&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+
+DYED_SMALL_BACKPACK_ORANGE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&6Orange&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_MAGENTA:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&dMagenta&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_LIGHT_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&bLight Blue&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_YELLOW:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&eYellow&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_LIME:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&aLime&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_PINK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&dPink&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_DARK_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&8Dark Gray&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_LIGHT_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&7Light Gray&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_CYAN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&3Cyan&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_PURPLE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&5Purple&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&9Blue&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_BROWN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&6Brown&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_GREEN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&2Green&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_RED:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&cRed&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_SMALL_BACKPACK_BLACK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eSmall Backpack &7(&0Black&7)'
+  stats:
+    - '&7Size: &e9'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+
+# Medium Backpacks
+DYED_MEDIUM_BACKPACK_WHITE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&fWhite&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_ORANGE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&6Orange&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_MAGENTA:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&dMagenta&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_LIGHT_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&bLight Blue&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_YELLOW:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&eYellow&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_LIME:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&aLime&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_PINK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&dPink&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_DARK_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&8Dark Gray&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_LIGHT_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&7Light Gray&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_CYAN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&3Cyan&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_PURPLE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&5Purple&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&9Blue&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_BROWN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&6Brown&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_GREEN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&2Green&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_RED:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&cRed&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_MEDIUM_BACKPACK_BLACK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eBackpack &7(&0Black&7)'
+  stats:
+    - '&7Size: &e18'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+
+# Large Backpacks
+DYED_LARGE_BACKPACK_WHITE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&fWhite&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_ORANGE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&6Orange&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_MAGENTA:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&dMagenta&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_LIGHT_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&bLight Blue&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_YELLOW:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&eYellow&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_LIME:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&aLime&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_PINK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&dPink&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_DARK_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&8Dark Gray&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_LIGHT_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&7Light Gray&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_CYAN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&3Cyan&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_PURPLE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&5Purple&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&9Blue&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_BROWN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&6Brown&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_GREEN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&2Green&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_RED:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&cRed&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_LARGE_BACKPACK_BLACK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eLarge Backpack &7(&0Black&7)'
+  stats:
+    - '&7Size: &e27'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+
+# Woven Backpacks
+DYED_WOVEN_BACKPACK_WHITE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&fWhite&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_ORANGE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&6Orange&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_MAGENTA:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&dMagenta&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_LIGHT_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&bLight Blue&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_YELLOW:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&eYellow&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_LIME:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&aLime&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_PINK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&dPink&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_DARK_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&8Dark Gray&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_LIGHT_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&7Light Gray&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_CYAN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&3Cyan&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_PURPLE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&5Purple&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&9Blue&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_BROWN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&6Brown&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_GREEN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&2Green&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_RED:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&cRed&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_WOVEN_BACKPACK_BLACK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eWoven Backpack &7(&0Black&7)'
+  stats:
+    - '&7Size: &e36'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+
+# Gilded Backpacks
+DYED_GILDED_BACKPACK_WHITE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&fWhite&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_ORANGE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&6Orange&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_MAGENTA:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&dMagenta&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_LIGHT_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&bLight Blue&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_YELLOW:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&eYellow&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_LIME:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&aLime&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_PINK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&dPink&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_DARK_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&8Dark Gray&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_LIGHT_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&7Light Gray&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_CYAN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&3Cyan&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_PURPLE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&5Purple&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&9Blue&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_BROWN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&6Brown&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_GREEN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&2Green&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_RED:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&cRed&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_GILDED_BACKPACK_BLACK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eGilded Backpack &7(&0Black&7)'
+  stats:
+    - '&7Size: &e45'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+
+# Radiant Backpacks
+DYED_RADIANT_BACKPACK_WHITE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&fWhite&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_ORANGE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&6Orange&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_MAGENTA:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&dMagenta&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_LIGHT_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&bLight Blue&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_YELLOW:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&eYellow&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_LIME:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&aLime&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_PINK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&dPink&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_DARK_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&8Dark Gray&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_LIGHT_GRAY:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&7Light Gray&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_CYAN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&3Cyan&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_PURPLE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&5Purple&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_BLUE:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&9Blue&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_BROWN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&6Brown&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_GREEN:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&2Green&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_RED:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&cRed&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
+DYED_RADIANT_BACKPACK_BLACK:
+  description:
+    - '&7A portable storage container you can'
+    - '&7carry around and access anywhere.'
+  name: '&eRadiant Backpack &7(&0Black&7)'
+  stats:
+    - '&7Size: &e54 (Double chest)'
+  type:
+    - '&7&oBackpack'
+  usage:
+    - '&eRight Click&7 to open'
+
