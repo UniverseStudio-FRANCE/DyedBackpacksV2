@@ -7,7 +7,7 @@ DyedBackpacksV2 allows you craft colored variants of the Slimefun5 backpacks usi
 **This version was made for java minecraft v26+, I won't maintain it for older versions.**
 
 ## Download DyedBackpacksV2
-You can download DyedBackpacksV2 right here: [Releases](https://github.com/MaximeBro/DyedBackpacksV2/releases)
+You can download DyedBackpacksV2 right here: [Releases](https://github.com/UniverseStudio-FRANCE/DyedBackpacksV2/releases)
 
 ## Discord
 You can find Slimefun5's community on Discord!
